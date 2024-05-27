@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Karl Magnus Nøkling, and I'm a Front-End Developer specializing in HTML, CSS, and JavaScript. And Frameworks like Bootstrap, Sass & React ( + React Native) I have completed studying Front-End Development at Noroff.
+My name is Karl Magnus Nøkling, and I'm a Front-End Developer specializing in HTML, CSS, and JavaScript. And Frameworks like Bootstrap, Sass & React ( + React Native) I have completed a 2-year Front-End Development study at Noroff.
 
 I have a strong passion for creating innovative solutions that simplify and enhance the digital experience. With my expertise I am well-equipped to build modern and engaging websites and mobile applications.
 
